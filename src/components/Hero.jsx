@@ -4,7 +4,7 @@ function Hero() {
   return (
     <div className='bg-cover bg-center py-[2.5rem] flex justify-center items-center flex-col relative' style={{backgroundImage:'url("https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=1920&h=1080&fit=crop")'}}>
 
-        <div className="absolute inset-0 bg-black opacity-50"></div>
+        <div className="absolute inset-0 bg-black opacity-50 z-0"></div>
 
         <div className=' w-[40rem]  text-center  text-white relative'>
             <h1 className='lg:text-7xl text-3xl md:text-5xl font-semibold'>Find Your New <span className='text-[#FF9F43]/80 my-5'>Best Friend</span></h1>
