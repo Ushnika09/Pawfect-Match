@@ -1,9 +1,9 @@
-## 🐾 Pawfect Match — Responsive Pet Adoption Page
+# 🐾 Pawfect Match — Responsive Pet Adoption Page
 This project was built as part of Task 4 – Make a Website Mobile-Friendly Using CSS Media Queries in my Web Development Internship.
 
 The mission: Take a desktop-only pet adoption page and make it purr-fectly responsive 🐱🐶 using CSS media queries and mobile-first design — with a sprinkle of Tailwind magic.
 
-# 📖 The Task
+## 📖 The Task
 From the internship brief:
 
 Objective: Convert an existing desktop-only page to a mobile-friendly layout using media queries.
@@ -32,7 +32,7 @@ Made the pet grid adapt from 3 columns → 2 columns → 1 column depending on s
 
 💬 Placeholder Sections – Home, Pets, Contact (not functional, just for layout demo)
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 HTML5 – Structure
 
 Tailwind CSS – Utility-first responsive styling
@@ -41,7 +41,7 @@ CSS Media Queries – Core task requirement
 
 JavaScript – To toggle the mobile hamburger menu
 
-# 🚀 How to View
+## 🚀 How to View
 Clone the repo:
 
 git clone https://github.com/your-username/pawfect-match.git
